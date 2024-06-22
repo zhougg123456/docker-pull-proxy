@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-hangzhou.aliyuncs.com/zhougg/nginx:alpine
+docker pull registry.cn-hangzhou.aliyuncs.com/zhougg/nginx:alpine
