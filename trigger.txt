@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-hangzhou.aliyuncs.com/zhougg/nginx:alpine
+nginx:alpine registry.cn-hangzhou.aliyuncs.com/zhougg/nginx:1.24.0
