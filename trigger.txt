@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+mysql:5.7 repository/cn-hangzhou/zhougg/mysql/mysql:5.7
